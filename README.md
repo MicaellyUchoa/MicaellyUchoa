@@ -1,6 +1,8 @@
 ### Hello World 💬 
 
-My name is Micaelly from Brazil (🇧🇷). I've been working as Front-End Developer since 2017 and currently work at Picpay. I'm passionate for what I do.
+My name is Micaelly from Brazil 🇧🇷
+I've been working as Front-End Developer since 2017 and currently work at Picpay. 
+I'm passionate for what I do.
 
 favorites skills?
 - Angular
