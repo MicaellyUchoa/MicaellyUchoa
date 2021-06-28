@@ -8,7 +8,7 @@ favorites skills?
 - Angular
 - React
 - React-native
-- others technologies that make my eyes sparkle
+- Others technologies that make my eyes sparkle
 
 Would you like to find me?
 
