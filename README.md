@@ -58,9 +58,5 @@
 </div>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=micaellyuchoa&show_icons=true&locale=en&theme=dark" alt="micaellyuchoa" /></p>
-</div>
-
-<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=micaellyuchoa&theme=dark" alt="micaellyuchoa" /></p>
 </div>
