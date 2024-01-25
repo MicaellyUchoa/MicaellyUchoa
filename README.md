@@ -5,7 +5,7 @@
 
 - 🌱 I am currently learning **about leadership**
 
-- 📝 [Sometimes I write articles](https://medium.com/@micaelly-uchoa](https://medium.com/@micaelly-uchoa)
+- 📝 Sometimes I write articles
 
 - 💬 Ask me about **react, react-native, angular...**
 
@@ -19,9 +19,9 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://linkedin.com/in/micaelly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="micaelly" height="30" width="40" /></a>
-</p>
+<a href="https://medium.com/@micaelly-uchoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@micaelly-uchoa" height="30" width="40" /></a>
+
 
 ##
 
